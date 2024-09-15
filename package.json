@@ -13,6 +13,7 @@
     "@schedule-x/event-modal": "^1.63.1",
     "@schedule-x/react": "^1.63.1",
     "@schedule-x/theme-default": "^1.63.1",
+    "nanoid": "^5.0.7",
     "next": "14.2.11",
     "react": "^18",
     "react-dom": "^18"
